@@ -1,7 +1,9 @@
 <h1>Hi 👋 My name is Safin Sheikh</h1>
 <p>Passionate Backend Developer proficient in  JavaScript, TypeScript, Nodejs, expressJS, NestJS, GraphQL, MongoDB, Data Structures. Committed to crafting innovative solutions.</p>
 * 🌍  I'm based in Rajkot,India </br>
-* ✉️  You can contact me at [isafinsheikh@gmail.com](mailto:isafinsheikh@gmail.com)
+## 📫 Contact  
+
+Feel free to reach out via email: [isafinsheikh@gmail.com](mailto:isafinsheikh@gmail.com)  
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
