@@ -1,14 +1,13 @@
 Hi 👋 My name is Safin Sheikh
 =============================
 
-Full stack developer
+Backend developer
 --------------------
 
-Passionate Full Stack Developer proficient in HTML, CSS, JavaScript, Java, Data Structures. Committed to crafting innovative solutions. Currently expanding expertise to backend development with Node.js, Express.js, SQL, and MongoDB to craft comprehensive solutions.
+Passionate Backend Developer proficient in  JavaScript, Nodejs, expressJS, NestJS, GraphQL, MongoDB, Data Structures. Committed to crafting innovative solutions.
 
-* 🌍  I'm based in Jamnagar,India
+* 🌍  I'm based in Rajkot,India
 * ✉️  You can contact me at [isafinsheikh@gmail.com](mailto:isafinsheikh@gmail.com)
-* 🧠  I'm learning MongoDB, and expanding my knowledge circle in Node and Express.
 
 ### Skills
 
